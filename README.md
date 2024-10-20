@@ -3,5 +3,9 @@ This repository contains the code and documentation for my internship project at
 
 Level - 1
 
-Task 1: Landing Page
+Task 1: Portfolio Website
+
+This is my personal portfolio website showcasing my skills, projects, and experience as a front-end developer. Built using HTML, CSS, and JavaScript, the portfolio features responsive design, interactive elements, and a section for downloading my resume. 
+
+Task 2: Landing Page
 As part of my internship, I successfully completed Task 1 on Level 1, which involved designing a landing page. This project significantly enhanced my skills in HTML and CSS, allowing me to create a responsive design that adapts seamlessly to various screen sizes and devices.
