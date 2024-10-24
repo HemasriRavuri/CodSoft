@@ -9,3 +9,8 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 
 Task 2: Landing Page
 As part of my internship, I successfully completed Task 2 on Level 1, which involved designing a landing page. This project significantly enhanced my skills in HTML and CSS, allowing me to create a responsive design that adapts seamlessly to various screen sizes and devices.
+
+
+Task 3: Calculator Using JavaScript
+
+As part of internhip, I successfully completed Task 3 on Level 1, which involved designing a Calculator. This project focused on Javascript functions and enhanced my knowledge in HTML and CSS.
